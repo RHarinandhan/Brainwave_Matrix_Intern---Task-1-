@@ -24,4 +24,4 @@ Fake.CSV and True.CSV that contains fake news and True news
 
 4) Random Forest Classifier
 
-   Submitted By HArinandhan 
+   Submitted By Harinandhan 
